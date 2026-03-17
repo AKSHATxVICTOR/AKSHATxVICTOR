@@ -118,7 +118,10 @@
 🏆 Preparing for placements
 
 📫 Connect
-<p align="center"> <a href="https://akshatxvictor.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
+<p align="center"> 
+  <a href="https://akshatxvictor.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-ff2800?style=for-the-badge&logo=google-chrome&logoColor=black"/> </a> 
+  <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-ff28800?style=for-the-badge&logo=linkedin&logoColor=black"/></a> 
+  <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-ff2800?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
 👁️ Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshatxvictor&color=ff2800&style=flat-square"/> </p>
 ⚡ Fun Touch
