@@ -120,6 +120,6 @@
 📫 Connect
 <p align="center"> <a href="https://akshatxvictor.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
 👁️ Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshatxvictor&color=00F7FF&style=flat-square"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshatxvictor&color=ff2800&style=flat-square"/> </p>
 ⚡ Fun Touch
 <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/> </p>
