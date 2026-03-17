@@ -89,7 +89,7 @@
 ✔ Project-focused layout
 ✔ Clean UX
 
-🔗 https://akshatxvictor.github.io/Portfolio/
+🔗 https://akshatportfo.netlify.app/
 
 </td> <td width="50%">
 🔹 Upcoming Projects 🚧
