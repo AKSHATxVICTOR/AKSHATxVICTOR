@@ -2,9 +2,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Solutions;Future+Tech+Engineer" /> </p>
 <p>🚀 What I Do</p>
 <p align="center"> <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-ff2800?style=for-the-badge"/> <img src="https://img.shields.io/badge/Learn-Advanced%20Tech-ff2800?style=for-the-badge"/> <img src="https://img.shields.io/badge/Goal-Impactful%20Developer-ff2800?style=for-the-badge"/> </p>
-🧠 Tech Stack  
-
-<div align="center">
 
 <div align="center">
 
@@ -15,7 +12,7 @@
 <td align="center" width="50%">
 
 ### 🛠️ Tools  
-<a href="https://git-scm.com/"><img src="https://git-scm.com/about&theme=dark" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></a>
@@ -25,7 +22,11 @@
 <td align="center" width="50%">
 
 ### 👨‍💻 Languages  
-<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin&theme=dark" /></a>
+<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" /></a>
 
 </td>
 </tr>
@@ -34,20 +35,25 @@
 <td align="center" width="50%">
 
 ### ⚙️ Backend & Database  
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 
 </td>
 
 <td align="center" width="50%">
 
 ### 🌐 Frontend  
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 </div>
 📂 Featured Projects
