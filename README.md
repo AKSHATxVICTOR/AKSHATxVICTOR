@@ -6,25 +6,48 @@
 
 <div align="center">
 
-### 👨‍💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" />
-</p>
+<div align="center">
 
-### 🌐 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-</p>
+## 🧠 Tech Stack  
 
-### ⚙️ Backend & Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
 ### 🛠️ Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-</p>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 👨‍💻 Languages  
+<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin&theme=dark" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Database  
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" /></a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Frontend  
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 📂 Featured Projects
