@@ -1,6 +1,6 @@
 👋 Hi, I'm Akshat Kumar Sinha
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Solutions;Future+Tech+Engineer" /> </p>
-🧑‍💻 Developer Profile
+🧑‍💻 
 Name: Akshat Kumar Sinha
 Role: Full Stack Developer
 Focus: AI + Scalable Web Applications
