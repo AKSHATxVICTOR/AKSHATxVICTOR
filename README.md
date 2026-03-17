@@ -1,7 +1,7 @@
 👋 Hi, I'm Akshat Kumar Sinha
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Solutions;Future+Tech+Engineer" /> </p>
 <p>🚀 What I Do</p>
-<p align="center"> <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Learn-Advanced%20Tech-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Goal-Impactful%20Developer-DC0000?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-DC0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Learn-Advanced%20Tech-DC0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Goal-Impactful%20Developer-DC0000?style=for-the-badge"/> </p>
 🧠 Tech Stack  
 
 <div align="center">
