@@ -120,7 +120,7 @@
 📫 Connect
 <p align="center"> 
   <a href="https://akshatxvictor.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-ff2800?style=for-the-badge&logo=google-chrome&logoColor=black"/> </a> 
-  <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-ff28800?style=for-the-badge&logo=linkedin&logoColor=black"/></a> 
+  <a href="#"> <img src="https://www.linkedin.com/in/akshat-kumar-sinha-082981286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGbXMEooXRE6J48GNan%2FeTg%3D%3D-ff28800?style=for-the-badge&logo=linkedin&logoColor=black"/></a> 
   <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-ff2800?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
 ⚡ Fun Touch
 <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/> </p>
