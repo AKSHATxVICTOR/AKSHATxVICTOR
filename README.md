@@ -78,7 +78,7 @@
 ✔ Clean UI
 ✔ Practical daily usage
 
-🔗 https://akshatxvictor.github.io/FICALCULATIONS/index.html
+🔗 https://ficalculations.netlify.app/
 
 </td> </tr> <tr> <td width="50%">
 🔹 Portfolio Website
