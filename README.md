@@ -7,7 +7,7 @@ Focus: AI + Scalable Web Applications
 Location: India
 🚀 What I Do
 <p align="center"> <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Learn-Advanced%20Tech-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Goal-Impactful%20Developer-00F7FF?style=for-the-badge"/> </p>
-##🧠 Tech Stack  
+🧠 Tech Stack  
 
 <div align="center">
 
