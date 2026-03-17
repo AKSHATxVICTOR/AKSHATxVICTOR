@@ -8,15 +8,31 @@ Location: India
 🚀 What I Do
 <p align="center"> <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Learn-Advanced%20Tech-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Goal-Impactful%20Developer-00F7FF?style=for-the-badge"/> </p>
 🧠 Tech Stack
+## 🧠 Tech Stack  
+
 <div align="center">
-👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" />
-🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-⚙️ Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
-🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> </div>
+
+### 👨‍💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" />
+</p>
+
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+</p>
+
+### ⚙️ Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+</p>
+
+### 🛠️ Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
+
+</div>
 📂 Featured Projects
 <table> <tr> <td width="50%">
 🔹 SRM Access Portal
