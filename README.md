@@ -15,7 +15,7 @@
 <td align="center" width="50%">
 
 ### 🛠️ Tools  
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+<a href="https://git-scm.com/"><img src="https://git-scm.com/about&theme=dark" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></a>
