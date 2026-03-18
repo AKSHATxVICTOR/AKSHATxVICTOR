@@ -55,9 +55,7 @@
 </td>
 </tr>
 </table>
-
-</div>
-📂 Featured Projects
+  
 <table> <tr> <td width="50%">
 🔹 SRM Access Portal
 
@@ -92,6 +90,15 @@
 🔗 https://akshatportfoliomain.netlify.app/
 
 </td> <td width="50%">
+🔹Attendence Calculator
+
+📈 Attendance Management Tool
+
+✔ Easy attendance calculating
+✔ User-friendly interface
+✔ Practical for students to caclculate how many classes they can bunk.
+
+</td> </tr> <tr> <td width="50%">
 🔹 Upcoming Projects 🚧
 
 🤖 AI + Automation Tools
