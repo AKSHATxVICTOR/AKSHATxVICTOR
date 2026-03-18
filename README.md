@@ -95,7 +95,7 @@
 📈 Attendance Management Tool
 
 ✔ Easy attendance calculating
-✔ User-friendly interface
+✔ User-friendly interface <br>
 ✔ Practical for students to caclculate how many classes they can bunk.
 
 </td> </tr> <tr> <td width="50%">
