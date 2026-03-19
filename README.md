@@ -127,6 +127,6 @@
 📫 Connect
 <p align="center"> 
   <a href="https://akshatportfoliomain.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-ff2800?style=for-the-badge&logo=google-chrome&logoColor=black"/> </a> 
-  <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-ff2800?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
+  <a href="akshatkrsinha@gmail.com"> <img src="https://img.shields.io/badge/Email-ff2800?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
 ⚡ Fun Touch
 <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/> </p>
