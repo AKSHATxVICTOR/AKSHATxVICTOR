@@ -98,6 +98,8 @@
 ✔ User-friendly interface <br>
 ✔ Practical for students to caclculate how many classes they can bunk.
 
+🔗 https://attendencecalc.netlify.app/
+
 </td> </tr> <tr> <td width="50%">
 🔹 Upcoming Projects 🚧
 
